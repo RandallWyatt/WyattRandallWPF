@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0acf07d9-a718-45af-9da7-0c66e41375f3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ScreenCast Week 3/js/screenCast.js" afterPath="$PROJECT_DIR$/ScreenCast Week 3/js/screenCast.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WyattRandallWPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +28,8 @@
       <file leaf-file-name="screenCast.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ScreenCast Week 3/js/screenCast.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3726708" vertical-offset="0" max-vertical-offset="322">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.41925466" vertical-offset="0" max-vertical-offset="322">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
               </folding>
@@ -423,8 +422,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ScreenCast Week 3/js/screenCast.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3726708" vertical-offset="0" max-vertical-offset="322">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.41925466" vertical-offset="0" max-vertical-offset="322">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
